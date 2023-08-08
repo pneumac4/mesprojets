@@ -1,0 +1,5 @@
+Enonse 2: Kreye yon senp pwojè Django epi lanse l sou pòt 8080. Dekri kòman w fè l.
+
+-  (snenv) PS C:\Users\Pneuma\django_projects> django-admin startproject challenge
+-  (snenv) PS C:\Users\Pneuma\django_projects> cd challenge
+-  (snenv) PS C:\Users\Pneuma\django_projects\challenge> python manage.py runserver 8080

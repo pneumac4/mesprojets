@@ -1,0 +1,4 @@
+Enonse 3: Kreye migrasyon baz done Django a, epi dekri kòman w fè l.
+
+-  (snenv) PS C:\Users\Pneuma\django_projects\challenge> python manage.py makemigrations
+-  (snenv) PS C:\Users\Pneuma\django_projects\challenge> python manage.py migrate

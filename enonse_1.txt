@@ -1,0 +1,6 @@
+Enonse 1: Konfigire yon anviwònman vityèl pou pwojè ou a epi kreye yon nouvo pwojè ak kòmand django-admin. Dekri etap pa etap kòman w fè l.
+
+-  (venv) PS C:\Users\Pneuma\django_projects> pip install virtualenv
+-  (venv) PS C:\Users\Pneuma\django_projects> python -m venv snenv
+-  (venv) PS C:\Users\Pneuma\django_projects> snenv\Scripts\activate         
+-  (snenv) PS C:\Users\Pneuma\django_projects> django-admin startproject blog

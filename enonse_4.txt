@@ -1,0 +1,3 @@
+Enonse 4: Enstale yon pakè ki rele "moncashify" ki gen yon vèsyon espesifik nan pwojè w la. Dekri kòman w fè l.
+
+-  (snenv) PS C:\Users\Pneuma\django_projects\challenge> pip install moncashify==3.1
